@@ -6,7 +6,7 @@
 
 Jump to: [🇬🇧 English](#-english) | [🇩🇪 Deutsch](#-deutsch)
 
-[⬇️ Download](https://github.com/YOUR-USERNAME/spaceprotect/releases) · [☕ Support](https://buymeacoffee.com/spaceinvader) · [🌐 spaceinvader.at](https://spaceinvader.at)
+[⬇️ Download](https://github.com/realspaceinvader/spaceprotect/releases) · [☕ Support](https://buymeacoffee.com/spaceinvader) · [🌐 spaceinvader.at](https://spaceinvader.at)
 
 ---
 
@@ -73,7 +73,7 @@ One file, three roles:
 
 ### Installation
 
-1. Download `Spaceprotect.exe` from the [Releases](https://github.com/YOUR-USERNAME/spaceprotect/releases) page.
+1. Download `Spaceprotect.exe` from the [Releases](https://github.com/realspaceinvader/spaceprotect/releases) page.
 2. Log in with your **administrator** account and start `Spaceprotect.exe`. Confirm the UAC prompt.
 3. Follow [Initial Setup](#initial-setup).
 
@@ -153,7 +153,7 @@ Admin app → **Uninstall** (top right). Removes the scheduled task, the autosta
 ### Build from Source
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/spaceprotect.git
+git clone https://github.com/realspaceinvader/spaceprotect.git
 cd spaceprotect
 pip install -r requirements.txt
 python -m pytest tests
@@ -235,7 +235,7 @@ Eine Datei, drei Aufgaben:
 
 ### Installation (DE)
 
-1. `Spaceprotect.exe` von der Seite [Releases](https://github.com/YOUR-USERNAME/spaceprotect/releases) herunterladen.
+1. `Spaceprotect.exe` von der Seite [Releases](https://github.com/realspaceinvader/spaceprotect/releases) herunterladen.
 2. Mit deinem **Administratorkonto** anmelden und `Spaceprotect.exe` starten. UAC bestätigen.
 3. Weiter mit [Ersteinrichtung](#ersteinrichtung).
 
@@ -315,7 +315,7 @@ Verwaltung → **Deinstallieren** (oben rechts). Entfernt die geplante Aufgabe, 
 ### Aus dem Quellcode bauen
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/spaceprotect.git
+git clone https://github.com/realspaceinvader/spaceprotect.git
 cd spaceprotect
 pip install -r requirements.txt
 python -m pytest tests
